@@ -4,7 +4,7 @@ https://nodejs.org/en/
 
 Clone Repo
 ```
-git clone https://github.com/gt-webdev/react-click-game.git
+git clone https://github.com/gt-webdev/react-click-game-p2.git
 cd react-click-game (new repo folder)
 cd complete (completed app) or
 cd tryit (incomplete app)
